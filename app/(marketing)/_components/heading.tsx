@@ -35,7 +35,7 @@ export const Heading = () => {
       {!isAuthenticated && !isLoading && (
         <SignInButton mode="modal">
           <Button>
-            Use o Notion gratuitamente
+            Use o Jotion gratuitamente
             <ArrowRight className="h-4 w-4 ml-2"/>
           </Button>
         </SignInButton>
